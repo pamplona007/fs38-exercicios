@@ -20,6 +20,7 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.1);
     background-color: #fff;
     transition: box-shadow .2s;
+    cursor: pointer;
     box-shadow:
         0px 2.2px 2.2px -26px rgba(0, 0, 0, 0.02),
         0px 5.4px 5.3px -26px rgba(0, 0, 0, 0.028),
@@ -41,6 +42,8 @@ body {
 
 .produto img {
     width: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
     border-radius: 16px;
 }
 

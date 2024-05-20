@@ -250,6 +250,60 @@ Aqui, temos mais elementos que os exemplos anteriores, então o tempo será maio
 - [Como utilizar Font Awesome, W3Schools](https://www.w3schools.com/icons/fontawesome_icons_intro.asp), (pode estar desatualizado)
 
 
+# Novidade em dashboard do GitHub
+
+![image](./assets/github.png)
+
+<table>
+    <tr>
+        <td>
+            Dificuldade
+        </td>
+        <td>
+            :star: :star: :star: :star:
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Tempo estimado (fora o tempo de estudo)
+        </td>
+        <td>
+            2 horas
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Dica
+        </td>
+        <td>
+            Lembre-se da tag <code>ul</code> para listas
+        </td>
+    </tr>
+</table>
+
+
+Na página de um dashboard do GitHub, as novidades são mostradas com os seguintes elementos:
+
+- Imagem do autor
+- Um ícone mostrando do que se trata o post, no caso do exemplo, é uma tag verde, sinalizando um post de tipo `release`
+- Nome do autor
+- Data da publicação
+- Nome da release ou versao
+- Texto da release
+- Principais contribuintes
+- Reações
+
+
+### Links reais para vocês usarem como referência:
+
+Para ver uma release, vocês terão que seguir alguns repositórios no GitHub. Por exemplo, podem seguir o [repositório do exemplo, o NextJS](https://github.com/vercel/next.js). Depois acessem a página inicial de vocês e verão as atualizações do repositório que foi seguido.
+
+
+### Dificuldades e materiais de estudo
+
+Aqui, temos a utilização de várias tags, além da utilização de `position: absolute` e `display: flex`, será um teste de tudo que fizeram nos exercícios anteriores.
+
+
 # Post carroussel no Instagram
 
 ![image](./assets/insta.png)
@@ -260,7 +314,7 @@ Aqui, temos mais elementos que os exemplos anteriores, então o tempo será maio
             Dificuldade
         </td>
         <td>
-            :star: :star: :star: :star:
+            :star: :star: :star: :star: :star:
         </td>
     </tr>
     <tr>

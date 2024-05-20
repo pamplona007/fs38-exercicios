@@ -1,0 +1,87 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 99vh;
+    font-family:
+        Open Sans,
+        Roboto,
+        Arial,
+        Helvetica,
+        sans-serif,
+        SimSun;
+    background-color: #f3f3f3;
+}
+
+.produto {
+    width: 220px;
+    border-radius: 16px;
+    padding: 16px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    transition: box-shadow .2s;
+    box-shadow:
+        0px 2.2px 2.2px -26px rgba(0, 0, 0, 0.02),
+        0px 5.4px 5.3px -26px rgba(0, 0, 0, 0.028),
+        0px 10.1px 10px -26px rgba(0, 0, 0, 0.035),
+        0px 18.1px 17.9px -26px rgba(0, 0, 0, 0.042),
+        0px 33.8px 33.4px -26px rgba(0, 0, 0, 0.05),
+        0px 81px 80px -26px rgba(0, 0, 0, 0.07);
+}
+
+.produto:hover {
+    box-shadow:
+        0px 2.8px 2.2px rgba(0, 0, 0, 0.02),
+        0px 6.7px 5.3px rgba(0, 0, 0, 0.028),
+        0px 12.5px 10px rgba(0, 0, 0, 0.035),
+        0px 22.3px 17.9px rgba(0, 0, 0, 0.042),
+        0px 41.8px 33.4px rgba(0, 0, 0, 0.05),
+        0px 100px 80px rgba(0, 0, 0, 0.07);
+}
+
+.produto img {
+    width: 100%;
+    border-radius: 16px;
+}
+
+.titulo {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+    margin: 0;
+    margin-top: 8px;
+
+    font-size: 14px;
+    font-weight: 400;
+    color: #191919;
+}
+
+.quantidade-vendida {
+    margin: 2px 4px;
+    color: #757575;
+    font-size: 12px;
+}
+
+.precos {
+    font-size: 12px;
+}
+
+.preco {
+    font-weight: 700;
+}
+
+.desconto {
+    text-decoration: line-through;
+    color: rgb(153, 153, 153);
+}
+
+.preco span {
+    font-size: 24px;
+}
+
+.frete {
+    margin-top: 8px;
+    font-size: 14px;
+}

@@ -34,7 +34,7 @@ Aqui vai um material introdutório que será necessário para a realização des
             Dica
         </td>
         <td>
-            Utilize `position` para sobrepor elementos
+            Utilize <code>position</code> para sobrepor elementos
         </td>
     </tr>
 </table>
@@ -87,7 +87,7 @@ Para replicar esse componente, além do básico de CSS, vão precisar saber como
             Dica
         </td>
         <td>
-            Utilize `position` para sobrepor elementos e `display: flex` para alinhar elementos
+            Utilize <code>position</code> para sobrepor elementos e <code>display: flex</code> para alinhar elementos
         </td>
     </tr>
 </table>
@@ -147,7 +147,7 @@ Além do que foi citado no exemplo anterior, aqui vocês vão precisar de um pou
             Dica
         </td>
         <td>
-            Além do `display: flex`, você pode alinhar elementos com `display: grid`
+            Além do <code>display: flex</code>, você pode alinhar elementos com <code>display: grid</code>
         </td>
     </tr>
 </table>
@@ -211,7 +211,7 @@ Assim como no YouTube, aqui vocês vão precisar de conhecimento na utilização
             Dica
         </td>
         <td>
-            Utilize `display: flex` para alinhar elementos
+            Utilize <code>display: flex</code> para alinhar elementos
         </td>
     </tr>
 </table>
@@ -276,7 +276,7 @@ Aqui, temos mais elementos que os exemplos anteriores, então o tempo será maio
             Dica
         </td>
         <td>
-            Utilize `display: flex` para alinhar elementos, você pode usar `align-self` para alinhar elementos individualmente
+            Utilize <code>display: flex</code> para alinhar elementos, você pode usar <code>align-self</code> para alinhar elementos individualmente
         </td>
     </tr>
 </table>
